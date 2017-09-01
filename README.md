@@ -1,7 +1,7 @@
 # Cubic Root Solver
-# k
+# k22
 
-lol
+lol222
 This is part of the CPEN 333 lecture on using Git.
 
 The goal of this challenge is to create a solver for finding all
